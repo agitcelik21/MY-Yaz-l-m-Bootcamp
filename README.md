@@ -4,7 +4,7 @@ Bu repository Murat Yücedağ tarafından verilen ***C# Eğitim Kampı*** Dersle
 
 
 ---
-### ***[Murat Yucedağ Website](https:muratyucedag.wordpress.com) Murat Yücedağ hocama ve ekibine teşekkürler.***
+### ***[Murat Yucedağ Website](https://muratyucedag.com/) Murat Yücedağ hocama ve ekibine teşekkürler.***
 ---
 ---
 ## ***Insertion=[**M.Y.-Youtube**](https://www.youtube.com/@MurattYucedag)***
